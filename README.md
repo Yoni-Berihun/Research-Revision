@@ -1007,6 +1007,331 @@ Reliability = consistency
 * Wrong analysis = misleading research 
 
 ---
+Below is a **complete, exam-oriented teaching of Chapter 6: Ethics of Scientific Research**, based **strictly on your attached course material** .
+I will explain it **clearly, step-by-step**, with **definitions, examples, real-world scenarios**, and **exam tips**, assuming this is for your **final exam**.
+
+---
+
+# 📘 Chapter 6: Ethics of Scientific Research
+
+*(Research Methods in Information Systems)*
+
+---
+
+## 1. What Are Research Ethics? (Core Definition)
+
+**Research ethics** are the moral principles and rules that guide how research is **planned, conducted, analyzed, and reported**.
+
+👉 In simple terms:
+
+> Ethics answer the question: **“Is this research done in a fair, honest, and respectful way?”**
+
+According to your material, **ethics in scientific research has TWO major aspects**:
+
+1. **How we treat other people involved in the research**
+2. **Honesty of the researcher in relation to the work itself** 
+
+⚠️ **Exam alert:**
+
+> *“There are two aspects of ethical issues in research”* is a **very likely exam question**.
+
+---
+
+## 2. Treating Other People Involved in the Research
+
+### 2.1 Why This Matters
+
+When research involves **human participants**, ethical issues always arise.
+
+**Key idea:**
+
+> People must be treated **with respect** before, during, and after the research 
+
+This applies to:
+
+* Surveys
+* Interviews
+* Experiments
+* Observations
+* Case studies
+
+---
+
+### 2.2 Respect for Participants (Very Important)
+
+Respect means:
+
+* No harm
+* No deception
+* No exploitation
+* No violation of privacy
+
+💡 **Real-world example (Information Systems):**
+If you are studying **mobile app usage among university students**, you must:
+
+* Explain why you are collecting data
+* Get their consent
+* Protect their personal information
+
+---
+
+### 2.3 Ethical Guidelines and Institutions
+
+Educational and professional organizations have **strict ethical guidelines** that must be followed in research .
+
+Examples:
+
+* University ethics committees
+* Research review boards
+* Professional associations
+
+⚠️ **Exam tip:**
+If asked *“Who enforces research ethics?”* →
+Answer: **Educational and professional organizations**
+
+---
+
+## 3. Honesty of the Researcher Relating to the Work
+
+Even if **no human participants** are involved, ethics still matter.
+
+> **Science is built on trust** 
+
+Researchers are expected to:
+
+* Collect data honestly
+* Analyze data objectively
+* Report results truthfully
+
+---
+
+## 4. Intellectual Ownership and Plagiarism (HIGH EXAM PRIORITY)
+
+### 4.1 What Is Plagiarism?
+
+**Plagiarism** is:
+
+* Copying someone else’s work and presenting it as your own
+* Using ideas, thoughts, or words without acknowledging the source
+* Even paraphrasing without citation is unethical 
+
+💥 **Key sentence for exams:**
+
+> *Plagiarism is the most conspicuous form of unethical behavior in computing.*
+
+---
+
+### 4.2 Examples of Plagiarism
+
+🚫 Copying text from a journal without citation
+🚫 Using another student’s project as yours
+🚫 Reusing your **own previous work** without permission
+🚫 Using ideas without mentioning the author
+
+---
+
+### 4.3 Why Plagiarism Is Serious
+
+* It steals other researchers’ work
+* It damages academic trust
+* It harms the scientific community 
+
+---
+
+## 5. Acknowledgement and Citation
+
+### 5.1 How to Avoid Plagiarism
+
+You avoid plagiarism by:
+
+* **Acknowledging sources**
+* **Citing authors properly**
+
+This process is called **citation** .
+
+📌 Citation styles exist (APA, MLA, etc.) — discussed in other chapters.
+
+⚠️ **Exam focus:**
+
+> Citation = ethical responsibility
+
+---
+
+## 6. Responsibility and Accountability of the Researcher
+
+As a researcher, you have responsibilities to:
+
+* Fellow researchers
+* Respondents
+* The public
+* The academic community 
+
+### 6.1 What Must Be Reported Accurately?
+
+You must clearly describe:
+
+* What you did
+* How you did it
+* Data collected
+* Techniques used
+* Analysis performed
+* Results obtained
+
+💡 **Scenario:**
+If your system performance test failed, you must still report it honestly.
+
+---
+
+## 7. Data and Interpretation Ethics
+
+### 7.1 Objectivity in Research
+
+Researchers must:
+
+* Mention data sources
+* Avoid bias
+* Maintain scientific objectivity 
+
+---
+
+### 7.2 Bias and Integrity Violations
+
+Unethical behavior includes:
+
+* Ignoring results that contradict your beliefs
+* Selecting only data that supports your hypothesis
+* Misrepresenting findings
+
+⚠️ **Exam warning:**
+
+> Selective data presentation = **breach of integrity**
+
+---
+
+## 8. Ethical Use of Language
+
+Language shapes perception.
+
+Researchers should:
+
+* Use neutral terminology
+* Avoid biased or offensive language
+* Be context-aware 
+
+💡 **Example:**
+Avoid stereotypes when describing user groups in IS research.
+
+---
+
+## 9. Checklist of Scientific Research Ethics (Exam Favorite)
+
+You should always ask:
+
+* Are all authors aware?
+* Is citation clear?
+* Is new work clearly distinguished from old?
+* Are sources accurately described?
+* Is reused content disclosed?
+* Can experiments be replicated?
+* Are limitations acknowledged?
+* Are claims overstated? 
+
+📝 **Exam tip:**
+Expect **MCQs or short answers** from this checklist.
+
+---
+
+## 10. Academic Dishonesty (Must Memorize)
+
+Academic dishonesty includes :
+
+1. **Plagiarism**
+2. **Cheating**
+3. **Assisting**
+4. **Fabrication**
+5. **Tampering**
+
+---
+
+### 10.1 Cheating
+
+Using unauthorized materials or deception to gain academic credit.
+
+Examples:
+
+* Copying in exams
+* Using prohibited electronic devices
+* Unauthorized collaboration
+
+---
+
+### 10.2 Assisting
+
+Helping others commit dishonesty:
+
+* Doing assignments for someone else
+* Selling academic work
+* Changing grades
+
+---
+
+### 10.3 Fabrication
+
+Inventing or falsifying data:
+
+* Fake results
+* Made-up references
+* Altered research findings
+
+---
+
+### 10.4 Tampering
+
+Altering evaluation instruments or documents:
+
+* Modifying grades
+* Sabotaging research tools
+* Harmful modification of products
+
+---
+
+## 11. Ethical Principles Every Researcher Must Follow
+
+### Core Principles :
+
+* **Honesty**
+* **Objectivity**
+* **Integrity**
+* **Carefulness**
+* **Openness**
+* **Respect for Intellectual Property**
+* **Confidentiality**
+* **Social Responsibility**
+* **Non-Discrimination**
+* **Legality**
+
+⚠️ **Exam strategy:**
+If asked *“List ethical principles of a researcher”*, write **at least 5–6** from this list.
+
+---
+
+## 12. Final Exam Summary (What to Focus On)
+
+🔥 **High-Priority Exam Topics**:
+
+* Two aspects of research ethics
+* Definition and types of plagiarism
+* Academic dishonesty categories
+* Researcher responsibilities
+* Data integrity and bias
+* Ethical principles of researchers
+
+📌 **Golden Rule for Exams:**
+
+> *Ethical research = Respect for people + Honesty in work*
+
+---
+
 
 
 
