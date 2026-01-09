@@ -706,4 +706,309 @@ Each tool has **advantages & disadvantages** — never say one is perfect.
 
 
 
+# 📘 Chapter 5: Types of Data and Data Analysis in Research 
+
+---
+
+## 1️⃣ What Is Research Data? (START FROM BASICS)
+
+### 📌 Research Data
+
+Research data is the **raw material** collected during a study to answer research questions or test hypotheses.
+
+👉 Without data → **no analysis**
+👉 Without correct analysis → **wrong conclusions**
+
+---
+
+## 2️⃣ Research Paradigms (VERY IMPORTANT FOR CONCEPTUAL QUESTIONS)
+
+Your slides clearly separate research into **two paradigms** :
+
+| Qualitative          | Quantitative              |
+| -------------------- | ------------------------- |
+| Naturalistic inquiry | Scientific / experimental |
+| Holistic view        | Focus on variables        |
+| Inductive reasoning  | Deductive reasoning       |
+| Words                | Numbers                   |
+| Flexible design      | Fixed design              |
+| Content analysis     | Statistical analysis      |
+
+📌 **Exam Tip:**
+If a question says *“holistic, meanings, experiences”* → **Qualitative**
+If it says *“variables, hypothesis testing, numbers”* → **Quantitative**
+
+---
+
+## 3️⃣ Qualitative Research (DEEP BUT SIMPLE)
+
+### 📌 Definition
+
+Qualitative research focuses on **understanding meanings, experiences, opinions, and social phenomena** in **natural settings**, not experiments .
+
+👉 It asks:
+
+> **WHY and HOW do people think or behave this way?**
+
+---
+
+### 🧠 Key Characteristics (EXAM GOLD ⭐)
+
+* Data is collected until **saturation**
+
+  * Saturation = no new information appears
+* Small number of participants
+* Flexible and evolving design
+* Uses **thematic analysis** 
+
+📌 **Real-life example:**
+Interviewing users about **why they dislike a new university portal**
+
+---
+
+## 4️⃣ Types of Data (VERY IMPORTANT SECTION)
+
+### 🗣 Qualitative Data
+
+#### 📌 Definition
+
+Data presented as **words, descriptions, opinions, values, and behaviors** .
+
+#### 📌 Examples
+
+* User experience
+* Satisfaction explanations
+* Opinions
+* Attitudes
+
+#### 📌 Collection Methods
+
+* Interviews
+* Focus groups
+* Observations
+* Open-ended survey questions 
+
+📌 **Exam Trap:**
+Qualitative ≠ unimportant
+It gives **depth**, not numbers.
+
+---
+
+### 🔢 Quantitative Data
+
+#### 📌 Definition
+
+Data expressed in **numbers or numerical values** .
+
+#### 📌 Examples
+
+* Age
+* Salary
+* Test scores
+* Number of system logins
+
+#### 📌 Characteristics
+
+* Can be measured
+* Can be ranked
+* Can be statistically analyzed
+* Presented using charts, tables, graphs 
+
+📌 **Real-life example:**
+Measuring average response time of an information system
+
+---
+
+## 5️⃣ What Is Data Analysis? (CORE CONCEPT)
+
+### 📌 Definition
+
+Data analysis is the **process of reducing large amounts of data into meaningful insights and stories** .
+
+👉 Raw data → Patterns → Meaning → Decisions
+
+📌 **Exam-ready sentence:**
+
+> Data analysis helps researchers interpret data to derive insights and conclusions.
+
+---
+
+## 6️⃣ Data Analysis in Qualitative Research (EXAM FAVORITE)
+
+### 🔍 1. Content Analysis
+
+#### 📌 Meaning
+
+Analyzing **words, phrases, themes, or concepts** that frequently appear in data .
+
+#### 📌 Example
+
+If “food” and “hunger” appear repeatedly in interviews → they are key issues
+
+📌 **Used for:**
+
+* Text
+* Images
+* Audio
+* Video
+
+---
+
+### 📖 2. Narrative Analysis
+
+#### 📌 Meaning
+
+Analyzing **stories people tell** to understand their experiences and perspectives .
+
+#### 📌 Example
+
+* Prisoner explaining reasons for committing a crime
+* User narrating experience with a failed IT system
+
+📌 **Key idea:**
+Stories = structured experiences
+
+---
+
+### 🗣 3. Discourse Analysis
+
+#### 📌 Meaning
+
+Analyzing **language in its social context** .
+
+#### 📌 Example
+
+* A politician talks more about security after an attack
+* An employee speaks differently to a CEO vs a colleague
+
+📌 **Focus:**
+How language reflects power, culture, and context
+
+---
+
+## 7️⃣ Data Analysis in Quantitative Research (VERY IMPORTANT)
+
+### 🔢 1. Univariate Analysis
+
+#### 📌 Meaning
+
+Analysis of **one variable only** .
+
+#### 📌 Example
+
+* Exam scores of students
+* Age distribution
+
+#### 📌 Techniques
+
+* Frequency
+* Mean
+* Median
+* Mode
+
+---
+
+### 🔗 2. Bivariate / Multivariate Analysis
+
+#### 📌 Meaning
+
+Analyzing **relationships between two or more variables** .
+
+#### 📌 Example
+
+* Relationship between study time and grades
+* Advertising vs sales
+
+📌 **Most common technique:**
+👉 Correlation
+
+---
+
+## 8️⃣ Statistical Measures (EXAM HEAVY ⚠)
+
+### 📊 Measures of Frequency
+
+* Count
+* Percentage
+* Frequency 
+
+📌 Used to show **how often** something occurs.
+
+---
+
+### 📍 Measures of Central Tendency
+
+* Mean
+* Median
+* Mode 
+
+📌 Used to show **average or typical value**.
+
+---
+
+### 📐 Measures of Dispersion
+
+* Range
+* Variance
+* Standard Deviation 
+
+📌 Shows **how spread out data is**.
+
+---
+
+### 📌 Measures of Position
+
+* Percentiles
+* Quartiles 
+
+📌 Used for **comparison with others**.
+
+---
+
+## 9️⃣ Data Analysis in Design Research (IMPORTANT BUT OFTEN IGNORED)
+
+### 📌 Key Idea
+
+Design research analyzes data through an **iterative process** :
+
+1. Suggest
+2. Design
+3. Construct
+4. Evaluate
+
+📌 Creativity is important
+📌 Improvements must be reported
+📌 Both qualitative & quantitative analysis can be used
+
+---
+
+## 🔟 Validity & Reliability in Design Research
+
+### 📌 Questions to Ask:
+
+* Does it solve the original problem?
+* Is it repeatable?
+* Is it acceptable to users?
+* Was evaluation rigorous? 
+
+📌 **Exam Tip:**
+Validity = correctness
+Reliability = consistency
+
+---
+
+## 🔑 Chapter 5 – EXAM SUMMARY (MEMORIZE THIS)
+
+* Data can be qualitative or quantitative
+* Analysis depends on data type
+* Qualitative analysis focuses on meaning
+* Quantitative analysis focuses on numbers
+* Correct analysis leads to valid conclusions
+* Wrong analysis = misleading research 
+
+---
+
+
+
+
 
